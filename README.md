@@ -1,5 +1,5 @@
-# Benchmark entre 4 motores de bases de datos que proveen Memory Store Engine
-MongoDB no se incluye ya que la versión CE no soporta Memory Store Engine, sin embargo el código está disponible. 
+# Benchmark entre 4 motores de bases de datos que proveen Memory Store Engine
+MongoDB no se incluye ya que la versión CE no soporta Memory Store Engine, sin embargo el código está disponible.  
 ## Redis 
 - Transacciones por seg : 5467.468562055768
 - Transacciones por seg : 5449.591280653951
