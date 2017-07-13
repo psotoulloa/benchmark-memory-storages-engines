@@ -1,0 +1,24 @@
+{
+  "name": "benchmark-cache-databases",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "couchbase": "^2.3.4",
+    "mongodb": "^2.2.30",
+    "mongoose": "^4.11.1",
+    "mysql": "github:mysqljs/mysql",
+    "promise": "^8.0.0",
+    "q": "^1.5.0",
+    "randomstring": "^1.1.5",
+    "redis": "^2.7.1"
+  }
+}

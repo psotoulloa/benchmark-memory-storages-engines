@@ -1,0 +1,9 @@
+{
+  "generator-common": {
+    "editorconfig": true,
+    "gitattributes": true,
+    "gitignore": true,
+    "jshintrc": true,
+    "test-jshintrc": true
+  }
+}
